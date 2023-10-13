@@ -2,5 +2,5 @@
 
 ## *Poblema Reginelor*
 
-<img src="https://cdn.pixabay.com/photo/2019/10/09/20/32/queen-4538186_1280.jpg" height="260" width="543"/>
+<img src="https://s13emagst.akamaized.net/products/38035/38034884/images/res_ada6514a41c97da7d1524d83d79a429c.jpg" height="170" width="190"/>
 
