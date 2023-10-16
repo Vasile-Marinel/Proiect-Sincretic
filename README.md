@@ -2,7 +2,7 @@
 
 ## *Poblema Reginelor*
 
-<img src="https://images.getpng.net/uploads/preview/chess-game-black-white-chess-pieces-king-queen-bishop-rook-knight-pawn-25-1151642626428ansyail26g.webp" height="200" width="160"/>
+<img src="https://s13emagst.akamaized.net/products/38035/38034884/images/res_ada6514a41c97da7d1524d83d79a429c.jpg" height="180" width="170"/>
 
 ### In ce consta problema reginelor?
 
