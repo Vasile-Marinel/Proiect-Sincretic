@@ -2,9 +2,9 @@
 
 ## *Poblema Reginelor*
 
-<img src="https://www.pinpng.com/pngs/m/220-2206813_silver-color-chess-piece-chess-pieces-queen-png.png" height="200" width="160"/>
+<img src="https://p1.hiclipart.com/preview/673/990/323/queen-chess-chess-piece-white-and-black-in-chess-pawn-fourplayer-chess-game-chessboard-png-clipart-thumbnail.jpg" height="200" width="160"/>
 
-<img class="lazy" src="https://www.pinpng.com/pngs/m/220-2206813_silver-color-chess-piece-chess-pieces-queen-png.png" data-original="https://www.pinpng.com/pngs/m/220-2206813_silver-color-chess-piece-chess-pieces-queen-png.png" title="Silver Color Chess Piece - Chess Pieces Queen Png, Transparent Png" alt="Silver Color Chess Piece - Chess Pieces Queen Png, Transparent Png " style="display: inline;">
+
 
 ### In ce consta problema reginelor?
 
