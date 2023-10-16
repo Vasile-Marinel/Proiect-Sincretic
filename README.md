@@ -2,7 +2,7 @@
 
 ## *Poblema Reginelor*
 
-<img src="https://s13emagst.akamaized.net/products/38035/38034884/images/res_ada6514a41c97da7d1524d83d79a429c.jpg" height="170" width="190"/>
+<img src="https://p1.hiclipart.com/preview/673/990/323/queen-chess-chess-piece-white-and-black-in-chess-pawn-fourplayer-chess-game-chessboard-png-clipart.jpg" height="200" width="160"/>
 
 ### In ce consta problema reginelor?
 
