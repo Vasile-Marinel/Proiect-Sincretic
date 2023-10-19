@@ -95,5 +95,6 @@ int main()
     {
         printf("Nu exista solutie.");
     }
+    
     return 0;
 }
