@@ -8,3 +8,9 @@
 
 Problema reginelor este o problemă clasică de puzzle și combinatorică. Enunțul problemei este să plasezi N regine pe o tablă de șah de dimensiune N×N astfel încât niciuna dintre ele să nu se atace reciproc. O regină poate ataca orice pereche de celule pe aceeași linie, coloană sau diagonale.
 
+#### Pasii de urmat
+
+1. **Implementarea problemei in cod:**
+    - crearea unui program in C pentru rezolvarea `Problemei Reginelor` ([explicare cod](https://pastebin.com/areLiavu))
+
+2. **Crearea unui Dockerfile:**
