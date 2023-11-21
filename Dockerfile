@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 alpine:latest
+FROM --platform=linux/amd64 alpine:latest   
 
 WORKDIR /problema_reginelor
 
