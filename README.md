@@ -25,6 +25,11 @@ Problema reginelor este o problemă clasică de puzzle și combinatorică. Enun�
 - am lansat un container Docker din imagine folosind comanda docker run: `docker run -it hanoi-towers` .
  - instructiunea `-it` creeaza un mediu interactiv si terminal pentru containerul nostru.
 
+ **5. Reconstruirea imaginii Docker:**
+ - daca facem modificari in programul C prin modificare codului sursa atunci:
+    - reconstruim imaginea Docker cu programul actualizat folosind comanda docker: `docker build -t problema_reginelor .`
+    - rulam un container nou din imaginea actualizata pentru a vedea modificarile: `docker run -it problema_reginelor`
+
 **6. "Impingerea" pe Docker Hub:**
 - ii dam un tag imaginii Docker cu numele meu de utilizator de pe Docker Hub si denumirea programului: `docker tag problema_reginelor:latest vasilemarinel/problema_reginelor:latest`
  - "impingerea" imaginii Docker pe Docker Hub folosind comanda docker: `docker push vasilemarinel/problema_reginelor:latest`
