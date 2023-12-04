@@ -22,7 +22,7 @@ Problema reginelor este o problemă clasică de puzzle și combinatorică. Enun�
 - imaginea contine programul C si mediul sau. 
 
 **4. Rularea unui container Docker:**
-- am lansat un container Docker din imagine folosind comanda docker run: `docker run -it hanoi-towers` .
+- am lansat un container Docker din imagine folosind comanda docker run: `docker run -it problema_reginelor` .
  - instructiunea `-it` creeaza un mediu interactiv si terminal pentru containerul nostru.
 
  **5. Reconstruirea imaginii Docker:**
