@@ -20,7 +20,7 @@ void afiseazaTabla()
             printf("-----");
         }
        printf("\n");
-
+       
         for(int j = 0; j < N; j++)
         {
             //Afiseaza liniile verticale si piesele de sah
