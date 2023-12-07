@@ -91,9 +91,15 @@ int main()
         for(int j = 0; j < N; j++)
             tabla[i][j]=0;
     
-    if(rezolvaProblemaReginelor(0) != 0)  //Daca nu exista solutie, afisam mesajul
+   rezolvaProblemaReginelor(0);
+    
+    if(numarSolutii == 0)  //Daca nu exista solutie, afisam mesajul
     {
-        printf("Nu exista solutie.");
+        printf("Nu exista solutie!");
+    }
+    else
+    {
+        printf("Au fost afisate toate cele %d solutii", numarSolutii);
     }
     
     return 0;
