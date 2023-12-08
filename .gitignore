@@ -1,2 +1,3 @@
-*.exe*
+# *.exe* - pentru evitarea crearii unui nou commit atunci cand doar rulam programul
+*.exe*  
 image.png
